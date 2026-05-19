@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://taqueria-las-pencas-2.vercel.app/sitemap.xml
